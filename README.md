@@ -1,4 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/T1dZM0_Y)
+![sistema](/assets/sistemadecontrol.png)
+
+- 👨‍🏫 **Cristian Gonzalo Vera**. Prof. Instituto Superior Politécnico Córdoba y Desarrolador IoT. [Ver Github](https://github.com/Gona79).
+
+![line](/assets/line.png)
+
+**Alumnos - Equipo Sistema de Control y Servicios**  
+✔️ **Maria Lilen Guzmán**  [Ver Github](https://github.com/lilenguzman01)  
+✔️ **Ulises Ale**  [Ver Github](https://github.com/ulisesaale)  
+✔️ **Jose Augusto Orsili Ortiz**  [Ver Github](https://github.com/joseorsili)  
+✔️ **Dario Arriola**  [Ver Github](https://github.com/dr-arriola)  
+
+
+### Año - **2024**
+
 
 # Proyecto #1 Controlador Multipropósito
 
@@ -35,3 +50,46 @@ La visualización de los datos y el ajuste del ControladorMx se llevarán adelan
 
 ## **Metodología de Desarrollo:**  
 Para este trabajo práctico, utilizaremos una metodología ágil de desarrollo. Esto implica una serie de sprints, cada uno de los cuales produce una parte funcional del proyecto. Las metodologías ágiles promueven el desarrollo iterativo y el constante feedback, lo que permite a los equipos adaptarse rápidamente a los cambios y mejorar la eficiencia del proyecto.
+
+## Hoja de Ruta de los sprint para el avance de proyecto.  
+
+**Unidad I: Introducción a los sistemas de control**  
+Sprint 1: Configuración y Diseño Inicial  
+• Historia de Usuario: Yo como desarrollador, quiero definir y configurar las entradas y salidas del ControladorMx, para adaptarlo a una amplia gama de aplicaciones.  
+• Sprint Backlog:  
+1. Diseñar el esquema de conexiones para sensores resistivos.  
+2. Implementar lectura de entradas analógicas.  
+3. Crear una interfaz para entradas digitales con función anti-bounce.  
+4. Definir la arquitectura básica del software del controlador.  
+5. Diseñar el circuito de salida PWM.  
+6. Establecer la comunicación con el display local i2c.  
+7. Desarrollar el menú inicial de configuración en el display.  
+8. Probar la lectura de sensores resistivos y ajustar la sensibilidad.  
+
+**Unidad II: Herramientas matemáticas para el análisis y modelado de sistemas de control**  
+Sprint 2: Desarrollo y Programación Avanzada  
+• Historia de Usuario: Yo como desarrollador, quiero programar las funcionalidades de control y lógica del ControladorMx, para que pueda realizar operaciones complejas basadas en las entradas recibidas.  
+• Sprint Backlog:  
+1. Programar la lógica de control para entradas digitales.  
+2. Implementar conversiones de señales analógicas a digitales.  
+3. Desarrollar funciones lógicas para la activación de salidas.  
+4. Crear algoritmos para la generación de salidas PWM basadas en entradas analógicas.  
+5. Integrar la funcionalidad de temporización para entradas y salidas.  
+6. Optimizar el código para mejorar la eficiencia y reducir el retardo.  
+7. Añadir funciones de ajuste de frecuencia del PWM en el display.  
+8. Realizar pruebas de integración de hardware y software.  
+
+**Unidad III: Modelado en control**  
+Sprint 3: Finalización y Pruebas  
+• Historia de Usuario: Yo como usuario final, quiero interactuar fácilmente con el ControladorMx a través de su interfaz de usuario, para configurar, ajustar y monitorear las operaciones del sistema de manera intuitiva.  
+• Sprint Backlog:  
+1. Diseñar e implementar la interfaz gráfica completa en el display.  
+2. Desarrollar un sistema de ayuda en pantalla para facilitar la configuración.  
+3. Implementar la visualización de datos en tiempo real.  
+4. Probar la interfaz de usuario con usuarios potenciales y recopilar feedback.  
+5. Ajustar la interfaz de usuario según el feedback recibido.  
+6. Realizar pruebas de estrés en el sistema para garantizar su estabilidad.  
+7. Documentar el proceso de configuración y uso del controlador.  
+8. Preparar un demostrativo de las capacidades del ControladorMx.  
+
+*Cada sprint debe ser seguido por una reunión de revisión con el equipo para demostrar lo logrado, y una retrospectiva para identificar áreas de mejora. Este enfoque garantiza que el desarrollo sea adaptable y que el producto final cumpla con las expectativas y necesidades de los usuarios.*
