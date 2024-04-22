@@ -18,7 +18,7 @@
    - El sistema debe proporcionar un display local para la visualización de datos y ajuste del controlador. Este display permitirá la configuración de las características del controlador.
      
 4. Asegurar la escalabilidad y la adaptabilidad del sistema:
-  - El sistema debe ser diseñado de tal manera que permita agregar nuevas funcionalidades y características en el futuro, manteniendo la facilidad de uso y la eficiencia en el control.
+   - El sistema debe ser diseñado de tal manera que permita agregar nuevas funcionalidades y características en el futuro, manteniendo la facilidad de uso y la eficiencia en el control.
 
 ## **Desarrollo del Proyecto:**  
 
