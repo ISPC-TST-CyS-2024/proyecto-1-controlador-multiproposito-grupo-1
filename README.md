@@ -93,3 +93,5 @@ Sprint 3: Finalización y Pruebas
 8. Preparar un demostrativo de las capacidades del ControladorMx.  
 
 *Cada sprint debe ser seguido por una reunión de revisión con el equipo para demostrar lo logrado, y una retrospectiva para identificar áreas de mejora. Este enfoque garantiza que el desarrollo sea adaptable y que el producto final cumpla con las expectativas y necesidades de los usuarios.*
+
+![logo](/assets/Curso%20ISPC.png)
